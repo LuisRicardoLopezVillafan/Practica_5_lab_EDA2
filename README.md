@@ -37,8 +37,7 @@ Encuentra un algoritmo correcto y eficiente para la ordenación rojo-blanco-azul
 ## Ejercicio 1
 Implementa el algoritmo Radix Sort para ordenar listas de enteros no negativos. 
 
-# Búsqueda lineal y binaria
-
+# Búsqueda lineal
 ## Ejercicio 1
 Implementa el algoritmo de búsqueda lineal simple.
 
